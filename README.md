@@ -35,11 +35,11 @@ GoldDict will index it automatically when it starts, or do Edit → Rescan Files
 | h | h | Hezeqéya [hezɛqejɑ] |
 | j | dʒ | jiavabu [dʒiɑvɑbu] |
 | k | k | kor [kor] |
-| l | l | Seléimun [seleimun] |
+| l | l | Séleimun [səleimun] |
 | m | m | Máta [mɐtɑ] |
 | n | n | náhatár [nɐhɑtɐɾ] |
 | p | p | Padšah [pɑdʃɑh] |
-| q | [q] | Eshaq [eʃɑq] |
+| q | [q] | Eshaq [eshɑq] |
 | r | [ɾ] | weak (flap/tap) | Merd |
 | ř | [r] | strong (trilled) | feř bége |
 | s | s | másih [mɐsih] |
