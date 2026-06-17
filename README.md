@@ -44,12 +44,12 @@ GoldDict will index it automatically when it starts, or do Edit → Rescan Files
 | ř | [r] | strong (trilled) | feř bége |
 | s | s | másih [mɐsih] |
 | š | ʃ | Šájáránamá [ʃɐdʒɐɾɐnɑmɐ] |
-| t | t | Tártib [tɑɾtib] |
+| t | t | Tártib [tɐɾtib] |
 | v | [v] | full | vá [vɐ] |
-| w | [ʋ] | reduced | báw [bɑw] |
+| w | [ʋ] | reduced | báw [bɐw] |
 | x | χ | Xođavánd [χoðɑvɑnd] |
 | y | j | Yáhuda [jɐhudɑ] |
-| z | z | zámun [zɑmun] |
+| z | z | zámun [zɐmun] |
 | ž | ʒ | ž (rare) |
 | č | tʃ | čardá [tʃɑɾdɐ] |
 | đ | ð | bađ |
