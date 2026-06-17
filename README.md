@@ -43,7 +43,7 @@ GoldDict will index it automatically when it starts, or do Edit → Rescan Files
 | r | [ɾ] | weak (flap/tap) | Merd |
 | ř | [r] | strong (trilled) | feř bége |
 | s | s | másih [mɑsih] |
-| š | ʃ | Šájáránameye [ʃɑdʒɑɾɑnɑmeje] |
+| š | ʃ | Šájáránamá [ʃɐdʒɐɾɑnɑmɐ] |
 | t | t | Tártib [tɑɾtib] |
 | v | [v] | full | vá [vɑ] |
 | w | [ʋ] | reduced | báw [bɑw] |
@@ -52,8 +52,8 @@ GoldDict will index it automatically when it starts, or do Edit → Rescan Files
 | z | z | zámun [zɑmun] |
 | ž | ʒ | ž (rare) |
 | č | tʃ | čardá [tʃɑɾdɐ] |
-| đ | ð | đ |
-| ǧ | [ʁ] | ǧ |
+| đ | ð | bađ |
+| ǧ | [ʁ] | ǧámvábar |
 
 - **Acute accent** (á, é) marks vowel reduction
 - **š** = [ʃ] (like English "sh")
