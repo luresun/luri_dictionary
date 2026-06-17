@@ -12,12 +12,12 @@ GoldDict will index it automatically when it starts, or do Edit → Rescan Files
 | a | [ɑ] | full | máta |
 | á | [ɐ] | reduced | Fásle |
 | e | [e] | full | Ebrahim, Eshaq |
-| é | [ə] | reduced (schwa) | bérám |
+| é | [ə] | reduced (schwa) | béřám |
 | i | [i] | full | Isa |
-| o | [o] | full | koré |
+| o | [o] | full | kor |
 | u | [u] | full | Yusof |
 | ä | [ɐː] | long á | Yäqub |
-| ë | [eː] | long e | bëyä |
+| ë | [eː] | long e | mëtár |
 | ü | [uː] | long u | Büáz |
 | ö | [oː] | long o | göt |
 | î | [ʔi] | diphthong (glottal stop + i) | tábîd |
