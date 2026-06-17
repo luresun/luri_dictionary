@@ -31,13 +31,13 @@ GoldDict will index it automatically when it starts, or do Edit → Rescan Files
 | b | b | báw [bɑw] |
 | d | d | Davud [dɑvud] |
 | f | f | Fres [fɾes] |
-| g | g | gnayálšun [gənɑjɑlʃun] |
+| g | g | génayálšun [gənɑjɑlʃun] |
 | h | h | Hezeqéya [hezɛqejɑ] |
 | j | dʒ | jiavabu [dʒiɑvɑbu] |
-| k | k | koré [kore] |
+| k | k | kor [kor] |
 | l | l | Seléimun [seleimun] |
-| m | m | Máta [mɑtɑ] |
-| n | n | náhatár [nɑhɑtɑɾ] |
+| m | m | Máta [mɐtɑ] |
+| n | n | náhatár [nɐhɑtɐɾ] |
 | p | p | Padšah [pɑdʃɑh] |
 | q | [q] | Eshaq [eʃɑq] |
 | r | [ɾ] | weak (flap/tap) | Merd |
@@ -45,10 +45,10 @@ GoldDict will index it automatically when it starts, or do Edit → Rescan Files
 | s | s | másih [mɐsih] |
 | š | ʃ | Šájáránamá [ʃɐdʒɐɾɐnɑmɐ] |
 | t | t | Tártib [tɑɾtib] |
-| v | [v] | full | vá [vɑ] |
+| v | [v] | full | vá [vɐ] |
 | w | [ʋ] | reduced | báw [bɑw] |
 | x | χ | Xođavánd [χoðɑvɑnd] |
-| y | j | Yáhuda [jɑhudɑ] |
+| y | j | Yáhuda [jɐhudɑ] |
 | z | z | zámun [zɑmun] |
 | ž | ʒ | ž (rare) |
 | č | tʃ | čardá [tʃɑɾdɐ] |
