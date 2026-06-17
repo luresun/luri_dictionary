@@ -3,6 +3,7 @@ Copy glassory.dsl to ~/.golddict/dictionaries/ (or wherever you keep dict files)
 GoldDict will index it automatically when it starts, or do Edit → Rescan Files
 
 
+
 # Luri (SLB) Alphabet to IPA Mapping
 
 ## Vowels
@@ -28,13 +29,13 @@ GoldDict will index it automatically when it starts, or do Edit → Rescan Files
 
 | SLB | IPA | Example |
 |-----|-----|---------|
-| b | b | báw [bɑw] |
+| b | b | báw [bɐʋ] |
 | d | d | Davud [dɑvud] |
 | f | f | Fres [fɾes] |
-| g | g | génayálšun [gənɑjɑlʃun] |
-| h | h | Hezeqéya [hezɛqejɑ] |
+| g | g | génayálšun [gənɑjɐlʃun] |
+| h | h | Hezeqéya [hezeqəjɑ] |
 | j | dʒ | jiavabu [dʒiɑvɑbu] |
-| k | k | kor [kor] |
+| k | k | kor [koɾ] |
 | l | l | Séleimun [səleimun] |
 | m | m | Máta [mɐtɑ] |
 | n | n | náhatár [nɐhɑtɐɾ] |
@@ -46,8 +47,8 @@ GoldDict will index it automatically when it starts, or do Edit → Rescan Files
 | š | ʃ | Šájáránamá [ʃɐdʒɐɾɐnɑmɐ] |
 | t | t | Tártib [tɐɾtib] |
 | v | [v] | full | vá [vɐ] |
-| w | [ʋ] | reduced | báw [bɐw] |
-| x | χ | Xođavánd [χoðɑvɑnd] |
+| w | [ʋ] | reduced | báw [bɐʋ] |
+| x | χ | Xođavánd [χoðɑvɐnd] |
 | y | j | Yáhuda [jɐhudɑ] |
 | z | z | zámun [zɐmun] |
 | ž | ʒ | ž (rare) |
@@ -58,3 +59,4 @@ GoldDict will index it automatically when it starts, or do Edit → Rescan Files
 - **Acute accent** (á, é) marks vowel reduction
 - **š** = [ʃ] (like English "sh")
 - **ä** and **ë** are long vowels (not diphthongs)
+
