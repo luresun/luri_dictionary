@@ -10,7 +10,7 @@ GoldDict will index it automatically when it starts, or do Edit → Rescan Files
 | SLB | IPA | Type | Example |
 |-----|-----|------|---------|
 | a | [ɑ] | full | máta |
-| á | [ɐ] | reduced | Fásle |
+| á | [ɐ] | reduced | Fásl |
 | e | [e] | full | Ebrahim, Eshaq |
 | é | [ə] | reduced (schwa) | béřám |
 | i | [i] | full | Isa |
