@@ -43,7 +43,7 @@ GoldDict will index it automatically when it starts, or do Edit → Rescan Files
 | r | [ɾ] | weak (flap/tap) | Merd |
 | ř | [r] | strong (trilled) | feř bége |
 | s | s | másih [mɑsih] |
-| š | ʃ | Šájáránamá [ʃɐdʒɐɾɑnɑmɐ] |
+| š | ʃ | Šájáránamá [ʃɐdʒɐɾɐnɑmɐ] |
 | t | t | Tártib [tɑɾtib] |
 | v | [v] | full | vá [vɑ] |
 | w | [ʋ] | reduced | báw [bɑw] |
