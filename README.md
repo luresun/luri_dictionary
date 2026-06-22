@@ -10,53 +10,50 @@ and To use this dictianry in MDict app in iOS use glassory.mdx (setting → Pref
 
 | SLB | IPA | Type | Example |
 |-----|-----|------|---------|
-| a | [ɑ] | full | máta |
-| á | [ɐ] | reduced | Fásl |
-| e | [e] | full | Ebrahim, Eshaq |
-| é | [ə] | reduced (schwa) | béřám |
-| i | [i] | full | Isa |
+| a | [ɐ] | reduced | Fasl |
+| â | [ɑ] | full | matâ |
+| e | [e] | full | Ebrahim, Eshâq |
+| é | [ə] | reduced (schwa) | béřam |
+| i | [i] | full | Isâ |
 | o | [o] | full | kor |
 | u | [u] | full | Yusof |
-| ä | [ɐː] | long á | Yäqub |
-| ë | [eː] | long e | mëtár |
-| ü | [uː] | long u | Büáz |
+| ä | [ɐː] | long a | Yäqub |
+| ë | [eː] | long e | mëtar |
+| ü | [uː] | long u | Büaz |
 | ö | [oː] | long o | göt |
-| î | [ʔi] | diphthong (glottal stop + i) | tábîd |
-
-**Note:** Acute accent (á, é) marks vowel reduction.
+| î | [ʔi] | diphthong (glottal stop + i) | tabîd |
 
 ## Consonants
 
 | SLB | IPA | Example |
 |-----|-----|---------|
-| b | b | báw [bɐʋ] |
+| b | b | baw [bɐʋ] |
 | d | d | Davud [dɑvud] |
 | f | f | Fres [fɾes] |
-| g | g | génayálšun [gənɑjɐlʃun] |
-| h | h | Hezeqéya [hezeqəjɑ] |
-| j | dʒ | jiavabu [dʒiɑvɑbu] |
+| g | g | génâyalšun [gənɑjɐlʃun] |
+| h | h | Hezeqéyâ [hezeqəjɑ] |
+| j | dʒ | jiâvâbu [dʒiɑvɑbu] |
 | k | k | kor [koɾ] |
 | l | l | Séleimun [səleimun] |
-| m | m | Máta [mɐtɑ] |
-| n | n | náhatár [nɐhɑtɐɾ] |
-| p | p | Padšah [pɑdʃɑh] |
-| q | [q] | Eshaq [eshɑq] |
+| m | m | Matâ [mɐtɑ] |
+| n | n | nahâtar [nɐhɑtɐɾ] |
+| p | p | Pâdšâh [pɑdʃɑh] |
+| q | [q] | Eshâq [eshɑq] |
 | r | [ɾ] | weak (flap/tap) | Merd |
 | ř | [r] | strong (trilled) | feř bége |
-| s | s | másih [mɐsih] |
-| š | ʃ | Šájáránamá [ʃɐdʒɐɾɐnɑmɐ] |
-| t | t | Tártib [tɐɾtib] |
-| v | [v] | full | vá [vɐ] |
-| w | [ʋ] | reduced | báw [bɐʋ] |
-| x | χ | Xođavánd [χoðɑvɐnd] |
-| y | j | Yáhuda [jɐhudɑ] |
-| z | z | zámun [zɐmun] |
+| s | s | Masih [mɐsih] |
+| š | ʃ | Šajaranâma[ʃɐdʒɐɾɐnɑmɐ] |
+| t | t | Tartib [tɐɾtib] |
+| v | [v] | full | va [vɐ] |
+| w | [ʋ] | reduced | baw [bɐʋ] |
+| x | χ | Xođâvand [χoðɑvɐnd] |
+| y | j | Yahudâ [jɐhudɑ] |
+| z | z | zamun [zɐmun] |
 | ž | ʒ | ž (rare) |
-| č | tʃ | čardá [tʃɑɾdɐ] |
-| đ | ð | bađ |
-| ǧ | [ʁ] | ǧámvábar |
+| č | tʃ | čârda [tʃɑɾdɐ] |
+| đ | ð | bâđ |
+| ǧ | [ʁ] | ǧamvabâr |
 
-- **Acute accent** (á, é) marks vowel reduction
-- **š** = [ʃ] (like English "sh")
-- **ä** and **ë** are long vowels (not diphthongs)
-
+- Acute accent (é) marks vowel reduction
+- š = [ʃ] (like English "sh")
+- ä and ë are long vowels
