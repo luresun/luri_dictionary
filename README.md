@@ -4,16 +4,15 @@ GoldDict will index it automatically when it starts, or do Edit → Rescan Files
 and To use this dictianry in MDict app in iOS use glassory.mdx (setting → Preference → External library path)
 
 
-# Luri (SLB) Alphabet to IPA Mapping
+# Luri Alphabet to IPA Mapping
 
 ## Vowels
-
 | SLB | IPA | Type | Example |
-|-----|-----|------|---------|
+|---|---|---|---|
 | a | [ɐ] | reduced | Fasl |
 | â | [ɑ] | full | matâ |
 | e | [e] | full | Ebrahim, Eshâq |
-| é | [ə] | reduced (schwa) | béřam |
+| ê | [ə] | reduced (schwa) | bêřam |
 | i | [i] | full | Isâ |
 | o | [o] | full | kor |
 | u | [u] | full | Yusof |
@@ -22,30 +21,30 @@ and To use this dictianry in MDict app in iOS use glassory.mdx (setting → Pref
 | ü | [uː] | long u | Büaz |
 | ö | [oː] | long o | göt |
 | î | [ʔi] | diphthong (glottal stop + i) | tabîd |
-
 ## Consonants
-
 | SLB | IPA | Example |
-|-----|-----|---------|
+|---|---|---|
 | b | b | baw [bɐʋ] |
 | d | d | Davud [dɑvud] |
 | f | f | Fres [fɾes] |
-| g | g | génâyalšun [gənɑjɐlʃun] |
-| h | h | Hezeqéyâ [hezeqəjɑ] |
+| g | g | gênâyalšun [gənɑjɐlʃun] |
+| h | h | Hezeqêyâ [hezeqəjɑ] |
 | j | dʒ | jiâvâbu [dʒiɑvɑbu] |
 | k | k | kor [koɾ] |
-| l | l | Séleimun [səleimun] |
+| l | l | Sêleimun [səleimun] |
+| ł | ɫ | łat [ɫɐt] |
 | m | m | Matâ [mɐtɑ] |
-| n | n | nahâtar [nɐhɑtɐɾ] |
+| n | n | nahâtar [nɐhɐtɐɾ] |
+| ṅ | ŋ | baṅg [bɐŋg] |
 | p | p | Pâdšâh [pɑdʃɑh] |
 | q | [q] | Eshâq [eshɑq] |
-| r | [ɾ] | weak (flap/tap) | Merd |
-| ř | [r] | strong (trilled) | feř bége |
+| r | [ɾ] | weak (flap/tap) |
+| ř | [r] | strong (trilled) |
 | s | s | Masih [mɐsih] |
 | š | ʃ | Šajaranâma[ʃɐdʒɐɾɐnɑmɐ] |
 | t | t | Tartib [tɐɾtib] |
-| v | [v] | full | va [vɐ] |
-| w | [ʋ] | reduced | baw [bɐʋ] |
+| v | [v] | full |
+| w | [ʋ] | reduced |
 | x | χ | Xođâvand [χoðɑvɐnd] |
 | y | j | Yahudâ [jɐhudɑ] |
 | z | z | zamun [zɐmun] |
@@ -54,6 +53,7 @@ and To use this dictianry in MDict app in iOS use glassory.mdx (setting → Pref
 | đ | ð | bâđ |
 | ǧ | [ʁ] | ǧamvabâr |
 
-- Acute accent (é) marks vowel reduction
-- š = [ʃ] (like English "sh")
-- ä and ë are long vowels
+* š = [ʃ] (like English "sh")
+* ä and ë are long vowels
+* ł = [ɫ] (velarized/dark lateral)
+* ṅ = [ŋ] (velar nasal)
