@@ -31,7 +31,7 @@ and To use this dictianry in MDict app in iOS use glassory.mdx (setting → Pref
 | g | g | gênâyalšun [gənɑjɐlʃun] |
 | h | h | Hezeqêyâ [hezeqəjɑ] |
 | j | dʒ | jiâvâbu [dʒiɑvɑbu] |
-| k | [kʰ] | kalâm [kʰɐlɑm] |
+| k | [k] | kalâm [kɐlɑm] |
 | l | l | Sêleimun [səleimun] |
 | ł | ɫ | łat [ɫɐt] |
 | m | m | Matâ [mɐtɑ] |
