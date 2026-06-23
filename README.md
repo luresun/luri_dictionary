@@ -25,12 +25,13 @@ and To use this dictianry in MDict app in iOS use glassory.mdx (setting → Pref
 | SLB | IPA | Example |
 |---|---|---|
 | b | b | baw [bɐʋ] |
+| c | k | com [kom] |
 | d | d | Davud [dɑvud] |
 | f | f | Fres [fɾes] |
 | g | g | gênâyalšun [gənɑjɐlʃun] |
 | h | h | Hezeqêyâ [hezeqəjɑ] |
 | j | dʒ | jiâvâbu [dʒiɑvɑbu] |
-| k | k | kor [koɾ] |
+| k | [kʰ] | kalâm [kʰɐlɑm] |
 | l | l | Sêleimun [səleimun] |
 | ł | ɫ | łat [ɫɐt] |
 | m | m | Matâ [mɐtɑ] |
