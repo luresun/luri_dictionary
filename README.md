@@ -1,62 +1,86 @@
-To use this dictianry in GoldDict dictinary app:
-Copy glassory.dsl to ~/.golddict/dictionaries/ (or wherever you keep dict files)
-GoldDict will index it automatically when it starts, or do Edit → Rescan Files
-and To use this dictianry in MDict app in iOS use glassory.mdx (setting → Preference → External library path)
+====================================================================
+DICTIONARY INSTALLATION INSTRUCTIONS
+====================================================================
 
-# Luri Alphabet to IPA Mapping
+To use this dictionary in GoldenDict:
+1. Copy 'glossary.dsl' to '~/.golddict/dictionaries/' (or your custom directory).
+2. GoldenDict will index it automatically on launch. Alternatively, go to:
+   Edit -> Rescan Files
 
-## Vowels
+To use this dictionary in MDict (iOS):
+1. Transfer 'glossary.mdx' to your device.
+2. Open MDict and navigate to:
+   Settings -> Preference -> External library path (to select your folder)
 
-| luritin | IPA | Type | Example |
-| --- | --- | --- | --- |
-| a | [æ] | reduced | Fasl |
-| â | [ɑ] | full | matâ |
-| e | [e] | full | Ebrahim, Eshâq |
-| ê | [ə] | reduced (schwa) | bêřam |
-| i | [i] | full | Isâ |
-| o | [o] | full | kor |
-| u | [uː] | full | Yusof |
-| ä | [æː] | long a | Yäqub |
-| ë | [eː] | long e | mëtar |
-| ü | [ʉ]| long u | Büaz |
-| ö | [oː] | long o | göt |
-| î | [ʔi] | diphthong (glottal stop + i) | tabîd |
+====================================================================
+LURI ALPHABET TO IPA MAPPING GUIDE
+====================================================================
 
-## Consonants
+--------------------------------------------------------------------
+VOWELS MAPPING
+--------------------------------------------------------------------
 
-| luritin | IPA | Example |
-| --- | --- | --- |
-| b | b | baw [bæʋ] |
-| c | k | com [kom] |
-| d | d | Davud [dɑvud] |
-| f | f | Fres [fɾes] |
-| g | g | gênâyalšun [gənɑjælʃun] |
-| h | h | Hezeqêyâ [hezeqəjɑ] |
-| j | dʒ | jiâvâbu [dʒiɑvɑbu] |
-| k | [k] | kalâm [kælɑm] |
-| l | l | Sêleimun [səleimun] |
-| ł | ɫ | łat [ɫæt] |
-| m | m | Matâ [mætɑ] |
-| n | n | nahâtar [næhâtæɾ] |
-| ṅ | ŋ | baṅg [bæŋg] |
-| p | p | Pâdšâh [pɑdʃɑh] |
-| q | [q] | Eshâq [eshɑq] |
-| r | [ɾ] | weak (flap/tap) |
-| ř | [r] | strong (trilled) |
-| s | s | Masih [mæsih] |
-| š | ʃ | Šajaranâma [ʃædʒæɾænæmæ] |
-| t | t | Tartib [tæɾtib] |
-| v | [v] | full |
-| w | [ʋ] | reduced |
-| x | χ | Xođâvand [χoðɑvænd] |
-| y | j | Yahudâ [jæhudɑ] |
-| z | z | zamun [zæmun] |
-| ž | ʒ | ž (rare) |
-| č | tʃ | čârda [tʃɑɾdæ] |
-| đ | ð | bâđ |
-| ǧ | [ʁ] | ǧamvabâr |
+Luritin | IPA   | Type                  | Example  | Transcription
+--------------------------------------------------------------------
+a       | [æ]   | reduced               | Fasl     | [fæsl]
+â       | [ɑ]   | full                  | matâ     | [mætɑ]
+e       | [e]   | full                  | Ebrahim  | [ebɾɑhiːm]
+ê       | [ə]   | reduced (schwa)       | bêřam    | [bəɾam]
+i       | [i]   | full                  | pił      | [piɫ]
+o       | [o]   | full                  | kor      | [koɾ]
+u       | [uː]  | full                  | Yusof    | [juːsof]
+ä       | [æː]  | long a                | Yäqub    | [jæːquːb]
+ë       | [eː]  | long e                |ëvaz/mëtar| [eːvæz] / [meːtæɾ]
+ü       | [ʉ]   | centralized/fronted u | Büaz     | [bʉæz]
+ö       | [oː]  | long o                | göt      | [goːt]
+î       | [iː]  | long i                | pîr      | [piːɾ]
 
-* š = [ʃ] (like English "sh")
-* ä and ë are long vowels
-* ł = [ɫ] (velarized/dark lateral)
-* ṅ = [ŋ] (velar nasal)
+
+--------------------------------------------------------------------
+CONSONANTS MAPPING
+--------------------------------------------------------------------
+
+Luritin | IPA   | Description / Notes                  | Example    | Transcription
+--------------------------------------------------------------------
+b       | [b]   | voiced bilabial stop                 | baw        | [bæʋ]
+c / č   | [tʃ]  | voiceless postalveolar affricate     | čârda      | [tʃɑɾdæ]
+d       | [d]   | voiced alveolar stop                 | Davud      | [dɑvuːd]
+f       | [f]   | voiceless labiodental fricative      | Fres       | [fɾes]
+g       | [g]   | voiced velar stop                    | gênâyalšun | [gənɑjælʃuːn]
+h       | [h]   | voiceless glottal fricative          | Hezeqêyâ   | [hezeqəjɑ]
+j       | [dʒ]  | voiced postalveolar affricate        | jiâvâbu    | [dʒiɑvɑbuː]
+k       | [k]   | voiceless velar stop                 | kalâm      | [kælɑm]
+l       | [l]   | clear alveolar lateral approximant   | Sêleimun   | [səleimuːn]
+ł       | [ɫ]   | dark/velarized lateral approximant   | łat        | [ɫæt]
+m       | [m]   | bilabial nasal                       | Matâ       | [mætɑ]
+n       | [n]   | alveolar nasal                       | nahâtar    | [næhâtæɾ]
+ṅ       | [ŋ]   | velar nasal                          | baṅg       | [bæŋg]
+p       | [p]   | voiceless bilabial stop              | Pâdšâh     | [pɑdʃɑh]
+q       | [q]   | voiceless uvular stop                | Eshâq      | [eshɑq]
+r       | [ɾ]   | weak alveolar tap/flap               | rah        | [ɾæh]
+ř       | [r]   | strong alveolar trill                | řa         | [ra]
+s       | [s]   | voiceless alveolar fricative         | Masih      | [mæsih]
+š       | [ʃ]   | voiceless postalveolar fricative     | Šajaranâma | [ʃædʒæɾænæmæ]
+t       | [t]   | voiceless alveolar stop              | Tartib     | [tæɾtiːb]
+v       | [v]   | full voiced labiodental fricative    | vav        | [vɑv]
+w       | [ʋ]   | reduced labiodental approximant      | baw        | [bæʋ]
+x       | [χ]   | voiceless uvular fricative           | Xođâvand   | [χoðɑvænd]
+y       | [j]   | palatal approximant (English "y")    | Yahudâ     | [jæhuːdɑ]
+z       | [z]   | voiced alveolar fricative            | zamun      | [zæmuːn]
+ž       | [ʒ]   | voiced postalveolar fricative (rare) | žah        | [ʒæh]
+đ       | [ð]   | voiced dental fricative              | bâđ        | [bɑð]
+ǧ       | [ʁ]   | voiced uvular fricative              | ǧamvabâr   | [ʁæmvæbɑɾ]
+
+
+--------------------------------------------------------------------
+KEY PHONETIC QUICK REFERENCE
+--------------------------------------------------------------------
+
+* š = [ʃ]  (like English "sh" in "shoe")
+* c / č = [tʃ]  (like English "ch" in "chair")
+* ł = [ɫ]  (dark "l" sound, similar to the "ll" in English "ball")
+* ṅ = [ŋ]  (velar nasal, like the "ng" in English "sing")
+* đ = [ð]  (voiced dental fricative, like the "th" in English "this")
+* ǧ = [ʁ]  (voiced uvular fricative, like the French standard "r")
+* Diacritics like ä, ë, ö, î, and ü denote long or distinctly 
+  shifted vowel qualities.
