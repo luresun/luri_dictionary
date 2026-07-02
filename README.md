@@ -44,7 +44,7 @@ This guide provides setup instructions for using the Luri dictionary files acros
 
 | Luritin | IPA | Description / Notes | Example | Transcription |
 | :---: | :---: | :--- | :--- | :--- |
-| **b** | `[b]` | voiced bilabial stop | baw | `[bæʋ]` |
+| **b** | `[b]` | voiced bilabial stop | bâw | `[bɑʋ]` |
 | **c / č** | `[tʃ]` | voiceless postalveolar affricate | čârda | `[tʃɑɾdæ]` |
 | **d** | `[d]` | voiced alveolar stop | Davud | `[dɑvuːd]` |
 | **f** | `[f]` | voiceless labiodental fricative | Fres | `[fɾes]` |
