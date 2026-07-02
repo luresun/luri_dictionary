@@ -1,86 +1,88 @@
-====================================================================
-DICTIONARY INSTALLATION INSTRUCTIONS
-====================================================================
+# Dictionary Installation & Luri Phonetic Guide
 
-To use this dictionary in GoldenDict:
-1. Copy 'glossary.dsl' to '~/.golddict/dictionaries/' (or your custom directory).
-2. GoldenDict will index it automatically on launch. Alternatively, go to:
-   Edit -> Rescan Files
+This guide provides setup instructions for using the Luri dictionary files across multiple platforms, followed by a comprehensive orthography-to-IPA mapping chart for the Luritin script.
 
-To use this dictionary in MDict (iOS):
-1. Transfer 'glossary.mdx' to your device.
-2. Open MDict and navigate to:
-   Settings -> Preference -> External library path (to select your folder)
+---
 
-====================================================================
-LURI ALPHABET TO IPA MAPPING GUIDE
-====================================================================
+## 1. Dictionary Installation Instructions
 
---------------------------------------------------------------------
-VOWELS MAPPING
---------------------------------------------------------------------
+### GoldenDict
+1. Copy the `glossary.dsl` file into your local dictionary library directory:
+   * **Linux/Unix:** `~/.golddict/dictionaries/`
+   * **Windows/macOS:** Use your custom designated dictionary folder.
+2. GoldenDict will index the file automatically upon launch. 
+3. Alternatively, force an immediate manual index update by navigating to:
+   **Edit** $\rightarrow$ **Rescan Files**
 
-Luritin | IPA   | Type                  | Example  | Transcription
---------------------------------------------------------------------
-a       | [æ]   | reduced               | Fasl     | [fæsl]
-â       | [ɑ]   | full                  | matâ     | [mætɑ]
-e       | [e]   | full                  | Ebrahim  | [ebɾɑhiːm]
-ê       | [ə]   | reduced (schwa)       | bêřam    | [bəɾam]
-i       | [i]   | full                  | pił      | [piɫ]
-o       | [o]   | full                  | kor      | [koɾ]
-u       | [uː]  | full                  | Yusof    | [juːsof]
-ä       | [æː]  | long a                | Yäqub    | [jæːquːb]
-ë       | [eː]  | long e                |ëvaz/mëtar| [eːvæz] / [meːtæɾ]
-ü       | [ʉ]   | centralized/fronted u | Büaz     | [bʉæz]
-ö       | [oː]  | long o                | göt      | [goːt]
-î       | [iː]  | long i                | pîr      | [piːɾ]
+### MDict (iOS)
+1. Transfer the compiled `glossary.mdx` file to your iOS device via your preferred file-sharing method (AirDrop, iTunes File Sharing, or Cloud Storage).
+2. Launch MDict on your device and configure the library pathway:
+   **Settings** $\rightarrow$ **Preference** $\rightarrow$ **External library path** (Select the folder containing your `.mdx` file)
 
+---
 
---------------------------------------------------------------------
-CONSONANTS MAPPING
---------------------------------------------------------------------
+## 2. Luri Alphabet to IPA Mapping Guide
 
-Luritin | IPA   | Description / Notes                  | Example    | Transcription
---------------------------------------------------------------------
-b       | [b]   | voiced bilabial stop                 | baw        | [bæʋ]
-c / č   | [tʃ]  | voiceless postalveolar affricate     | čârda      | [tʃɑɾdæ]
-d       | [d]   | voiced alveolar stop                 | Davud      | [dɑvuːd]
-f       | [f]   | voiceless labiodental fricative      | Fres       | [fɾes]
-g       | [g]   | voiced velar stop                    | gênâyalšun | [gənɑjælʃuːn]
-h       | [h]   | voiceless glottal fricative          | Hezeqêyâ   | [hezeqəjɑ]
-j       | [dʒ]  | voiced postalveolar affricate        | jiâvâbu    | [dʒiɑvɑbuː]
-k       | [k]   | voiceless velar stop                 | kalâm      | [kælɑm]
-l       | [l]   | clear alveolar lateral approximant   | Sêleimun   | [səleimuːn]
-ł       | [ɫ]   | dark/velarized lateral approximant   | łat        | [ɫæt]
-m       | [m]   | bilabial nasal                       | Matâ       | [mætɑ]
-n       | [n]   | alveolar nasal                       | nahâtar    | [næhâtæɾ]
-ṅ       | [ŋ]   | velar nasal                          | baṅg       | [bæŋg]
-p       | [p]   | voiceless bilabial stop              | Pâdšâh     | [pɑdʃɑh]
-q       | [q]   | voiceless uvular stop                | Eshâq      | [eshɑq]
-r       | [ɾ]   | weak alveolar tap/flap               | rah        | [ɾæh]
-ř       | [r]   | strong alveolar trill                | řa         | [ra]
-s       | [s]   | voiceless alveolar fricative         | Masih      | [mæsih]
-š       | [ʃ]   | voiceless postalveolar fricative     | Šajaranâma | [ʃædʒæɾænæmæ]
-t       | [t]   | voiceless alveolar stop              | Tartib     | [tæɾtiːb]
-v       | [v]   | full voiced labiodental fricative    | vav        | [vɑv]
-w       | [ʋ]   | reduced labiodental approximant      | baw        | [bæʋ]
-x       | [χ]   | voiceless uvular fricative           | Xođâvand   | [χoðɑvænd]
-y       | [j]   | palatal approximant (English "y")    | Yahudâ     | [jæhuːdɑ]
-z       | [z]   | voiced alveolar fricative            | zamun      | [zæmuːn]
-ž       | [ʒ]   | voiced postalveolar fricative (rare) | žah        | [ʒæh]
-đ       | [ð]   | voiced dental fricative              | bâđ        | [bɑð]
-ǧ       | [ʁ]   | voiced uvular fricative              | ǧamvabâr   | [ʁæmvæbɑɾ]
+### Vowels Mapping
 
+| Luritin | IPA | Type | Example | Transcription |
+| :---: | :---: | :--- | :--- | :--- |
+| **a** | `[æ]` | reduced | Fasl | `[fæsl]` |
+| **â** | `[ɑ]` | full | matâ | `[mætɑ]` |
+| **e** | `[e]` | full | Ebrahim | `[ebɾɑhiːm]` |
+| **ê** | `[ə]` | reduced (schwa) | bêřam | `[bəɾam]` |
+| **i** | `[i]` | full | pił | `[piɫ]` |
+| **o** | `[o]` | full | kor | `[koɾ]` |
+| **u** | `[uː]` | full | Yusof | `[juːsof]` |
+| **ä** | `[æː]` | long a | Yäqub | `[jæːquːb]` |
+| **ë** | `[eː]` | long e | ëvaz / mëtar | `[eːvæz]` / `[meːtæɾ]` |
+| **ü** | `[ʉ]` | centralized/fronted u | Büaz | `[bʉæz]` |
+| **ö** | `[oː]` | long o | göt | `[goːt]` |
+| **î** | `[iː]` | long i | pîr | `[piːɾ]` |
 
---------------------------------------------------------------------
-KEY PHONETIC QUICK REFERENCE
---------------------------------------------------------------------
+### Consonants Mapping
 
-* š = [ʃ]  (like English "sh" in "shoe")
-* c / č = [tʃ]  (like English "ch" in "chair")
-* ł = [ɫ]  (dark "l" sound, similar to the "ll" in English "ball")
-* ṅ = [ŋ]  (velar nasal, like the "ng" in English "sing")
-* đ = [ð]  (voiced dental fricative, like the "th" in English "this")
-* ǧ = [ʁ]  (voiced uvular fricative, like the French standard "r")
-* Diacritics like ä, ë, ö, î, and ü denote long or distinctly 
-  shifted vowel qualities.
+| Luritin | IPA | Description / Notes | Example | Transcription |
+| :---: | :---: | :--- | :--- | :--- |
+| **b** | `[b]` | voiced bilabial stop | baw | `[bæʋ]` |
+| **c / č** | `[tʃ]` | voiceless postalveolar affricate | čârda | `[tʃɑɾdæ]` |
+| **d** | `[d]` | voiced alveolar stop | Davud | `[dɑvuːd]` |
+| **f** | `[f]` | voiceless labiodental fricative | Fres | `[fɾes]` |
+| **g** | `[g]` | voiced velar stop | gênâyalšun | `[gənɑjælʃuːn]` |
+| **h** | `[h]` | voiceless glottal fricative | Hezeqêyâ | `[hezeqəjɑ]` |
+| **j** | `[dʒ]` | voiced postalveolar affricate | jiâvâbu | `[dʒiɑvɑbuː]` |
+| **k** | `[k]` | voiceless velar stop | kalâm | `[kælɑm]` |
+| **l** | `[l]` | clear alveolar lateral approximant | Sêleimun | `[səleimuːn]` |
+| **ł** | `[ɫ]` | dark/velarized lateral approximant | łat | `[ɫæt]` |
+| **m** | `[m]` | bilabial nasal | Matâ | `[mætɑ]` |
+| **n** | `[n]` | alveolar nasal | nahâtar | `[næhâtæɾ]` |
+| **ṅ** | `[ŋ]` | velar nasal | baṅg | `[bæŋg]` |
+| **p** | `[p]` | voiceless bilabial stop | Pâdšâh | `[pɑdʃɑh]` |
+| **q** | `[q]` | voiceless uvular stop | Eshâq | `[eshɑq]` |
+| **r** | `[ɾ]` | weak alveolar tap/flap | rah | `[ɾæh]` |
+| **ř** | `[r]` | strong alveolar trill | řa | `[ra]` |
+| **s** | `[s]` | voiceless alveolar fricative | Masih | `[mæsih]` |
+| **š** | `[ʃ]` | voiceless postalveolar fricative | Šajaranâma | `[ʃædʒæɾænæmæ]` |
+| **t** | `[t]` | voiceless alveolar stop | Tartib | `[tæɾtiːb]` |
+| **v** | `[v]` | full voiced labiodental fricative | vav | `[vɑv]` |
+| **w** | `[ʋ]` | reduced labiodental approximant | baw | `[bæʋ]` |
+| **x** | `[χ]` | voiceless uvular fricative | Xođâvand | `[χoðɑvænd]` |
+| **y** | `[j]` | palatal approximant (English "y") | Yahudâ | `[jæhuːdɑ]` |
+| **z** | `[z]` | voiced alveolar fricative | zamun | `[zæmuːn]` |
+| **ž** | `[ʒ]` | voiced postalveolar fricative (rare) | žah | `[ʒæh]` |
+| **đ** | `[ð]` | voiced dental fricative | bâđ | `[bɑð]` |
+| **ǧ** | `[ʁ]` | voiced uvular fricative | ǧamvabâr | `[ʁæmvæbɑɾ]` |
+
+---
+
+## 3. Key Phonetic Quick Reference
+
+* **š** = `[ʃ]` *(Equivalent to English "sh" in "shoe")*
+* **c / č** = `[tʃ]` *(Equivalent to English "ch" in "chair")*
+* **ł** = `[ɫ]` *(Dark velarized "l" sound, similar to the "ll" in English "ball")*
+* **ṅ** = `[ŋ]` *(Velar nasal, equivalent to the "ng" sequence in English "sing")*
+* **đ** = `[ð]` *(Voiced dental fricative, equivalent to the "th" sound in English "this")*
+* **ǧ** = `[ʁ]` *(Voiced uvular fricative, equivalent to the standard French "r")*
+
+> [!NOTE]
+> Diacritics modifying standard vowels (**ä**, **ë**, **ö**, **î**, and **ü**) indicate long durations or fronted/centralized vowel shifts specific to Luri phonology.
