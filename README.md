@@ -15,10 +15,10 @@ and To use this dictianry in MDict app in iOS use glassory.mdx (setting → Pref
 | ê | [ə] | reduced (schwa) | bêřam |
 | i | [i] | full | Isâ |
 | o | [o] | full | kor |
-| u | [u] | full | Yusof |
-| ä | [ɐː] | long a | Yäqub |
+| u | [uː] | full | Yusof |
+| ä | [æː] | long a | Yäqub |
 | ë | [eː] | long e | mëtar |
-| ü | [uː] | long u | Büaz |
+| ü | [ʉ]| long u | Büaz |
 | ö | [oː] | long o | göt |
 | î | [ʔi] | diphthong (glottal stop + i) | tabîd |
 
