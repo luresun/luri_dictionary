@@ -69,7 +69,7 @@ This guide provides setup instructions for using the Luri dictionary files acros
 | **x** | `[χ]` | voiceless uvular fricative | Xođâvand | `[χoðɑvænd]` |
 | **y** | `[j]` | palatal approximant (English "y") | Yahudâ | `[jæhuːdɑ]` |
 | **z** | `[z]` | voiced alveolar fricative | zamun | `[zæmuːn]` |
-| **ž** | `[ʒ]` | voiced postalveolar fricative (rare) | žah | `[ʒæh]` |
+| **ž** | `[ʒ]` | voiced postalveolar fricative | žah | `[ʒæh]` |
 | **đ** | `[ð]` | voiced dental fricative | bâđ | `[bɑð]` |
 | **ǧ** | `[ʁ]` | voiced uvular fricative | ǧamvabâr | `[ʁæmvæbɑɾ]` |
 
